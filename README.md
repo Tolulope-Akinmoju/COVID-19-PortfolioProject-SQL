@@ -1,6 +1,6 @@
 # COVID-19-PortfolioProject-SQL
-https://www.mq.edu.au/__data/assets/image/0010/994924/COVID-19-updated.jpg
 
+![covid-19](https://user-images.githubusercontent.com/114532273/200413542-be83205c-653a-4f76-bdfa-67d181514025.jpg)
 
 
 # Project Summary
